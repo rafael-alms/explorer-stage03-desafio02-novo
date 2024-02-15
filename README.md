@@ -8,3 +8,5 @@ Desafio do curso Explorer da Rocketseat.
 - Variáveis no CSS;
 - Cores HSL;
 - Animações e transições simples.
+
+Deploy da aplicação: https://rafael-alms.github.io/explorer-stage03-desafio02-novo/
